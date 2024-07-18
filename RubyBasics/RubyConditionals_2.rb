@@ -26,3 +26,13 @@ for x in 1..10
     end
 
 end
+
+
+# Conditionals using Ternary Operator
+# Conditionals can also be applied using ternary operator
+
+# Syntax: CONDITION ? TRUE EXPRESSION : FALSE EXPRESSION
+
+x = 0
+result = x > 5 ? "X is Greater than 5" : "X in Smaller than 5"
+puts result
