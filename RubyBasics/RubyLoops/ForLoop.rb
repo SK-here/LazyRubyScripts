@@ -20,5 +20,3 @@ Alphabets = 'a'..'e'
 for alphabet in Alphabets
   puts alphabet
 end
-
-# 
