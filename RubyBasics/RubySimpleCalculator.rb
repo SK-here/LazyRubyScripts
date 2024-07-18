@@ -44,6 +44,5 @@ loop do
   puts "Want to calculate more? [Y/N]"
   yes_no = gets.chomp.downcase
 
-  break unless ['y', 'yes'].include?(yes_no)
+  break unless ['y', 'yes', 'Yes', 'Y'].include?(yes_no)
 end
-
