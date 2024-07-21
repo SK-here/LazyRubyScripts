@@ -57,6 +57,7 @@ data = [
 ]
 
 data.each do |subarray|
+  puts subarray.inspect
   subarray.each do |element|
     puts element
   end
