@@ -28,7 +28,6 @@ puts ("Constant Exponentiation: #{BASE ** EXPONENT}") # 1024
 # Using Math module
 # Since 'math' module is a part of ruby standard library, it doesn't requires explicit calling
 
-
 # Square root
 puts Math.sqrt (9)
 
