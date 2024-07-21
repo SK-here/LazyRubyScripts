@@ -1,7 +1,0 @@
-File handling in Ruby involves reading from and writing to files using built-in methods 
-and classes provided by the language. Here’s a basic overview of how you can perform file 
-handling operations in Ruby: Reading from a File
-
-To read from a file in Ruby, you typically follow these steps:
-
-Open the File: Use the File.open method, providing the file path and a mode (like 'r' for reading).
